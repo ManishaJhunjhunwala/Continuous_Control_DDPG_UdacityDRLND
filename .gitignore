@@ -1,0 +1,15 @@
+# Ignore these Folders
+
+.ipynb_checkpoints/
+__pycache__/
+Reacher_Data/
+Reacher_Windows_x86_64/
+original
+
+#Ignore these files
+
+Reacher_Windows_x86_64.zip
+debug.log
+unity-environment.log
+UnityPlayer.dll
+Report.docx
