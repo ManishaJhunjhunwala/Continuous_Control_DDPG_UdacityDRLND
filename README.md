@@ -1,4 +1,4 @@
-## Udacity Deep Reinforcement Learning Nanodegree
+### Udacity Deep Reinforcement Learning Nanodegree
 
 
 [//]: # (Image References)
@@ -7,11 +7,9 @@
 [image2]: https://user-images.githubusercontent.com/10624937/43851646-d899bf20-9b00-11e8-858c-29b5c2c94ccc.png "Crawler"
 
 
-# Project 2: Continuous Control
+## Project 2: Continuous Control
 
-## Train an agent to move to (and maintain its position at) the target location for as many time steps as possible
-
-![](reacher.gif)
+### Train an agent to move to (and maintain its position at) the target location for as many time steps as possible
 
 ### Introduction
 
